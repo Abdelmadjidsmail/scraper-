@@ -61,7 +61,7 @@ request(url, (error, response, html) => {
       const l4 = $(el).find('td:nth-child(5)').text().replace(/(\r\n|\n|\r)/gm, "");
 
 
-      if (l1 != '' && i != 49 && i != 50) {
+      if (l1 != '' && i != 50 && i != 51) {
         data[num] = {
           'willaya': l1,
           'Confirmed_cases': l2,
@@ -71,7 +71,7 @@ request(url, (error, response, html) => {
         scraping()
         num++;
       }
-      if (i == 49) {
+      if (i == 51) {
         data[num] = {
           'Total': l1,
           'Total_Confirmed_cases': l2,

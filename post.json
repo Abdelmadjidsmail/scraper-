@@ -1,6 +1,6 @@
 [{
     "willaya": "Blida",
-    "Confirmed_cases": "730",
+    "Confirmed_cases": "749",
     "Deaths": "102",
     "Recoveries": "133"
 }, {
@@ -10,42 +10,42 @@
     "Recoveries": "261"
 }, {
     "willaya": "Oran",
-    "Confirmed_cases": "186",
+    "Confirmed_cases": "192",
     "Deaths": "13",
     "Recoveries": "50"
 }, {
     "willaya": "Sétif",
-    "Confirmed_cases": "140",
+    "Confirmed_cases": "157",
     "Deaths": "10",
     "Recoveries": "2"
 }, {
     "willaya": "Ain Defla",
-    "Confirmed_cases": "113",
+    "Confirmed_cases": "122",
     "Deaths": "5",
     "Recoveries": "0"
 }, {
     "willaya": "Tipaza",
-    "Confirmed_cases": "110",
-    "Deaths": "20",
+    "Confirmed_cases": "119",
+    "Deaths": "21",
     "Recoveries": "0"
 }, {
     "willaya": "Béjaïa",
-    "Confirmed_cases": "108",
+    "Confirmed_cases": "115",
     "Deaths": "14",
     "Recoveries": "1"
 }, {
     "willaya": "Constantine",
-    "Confirmed_cases": "102",
+    "Confirmed_cases": "114",
     "Deaths": "9",
     "Recoveries": "0"
 }, {
     "willaya": "Tizi Ouzou",
-    "Confirmed_cases": "97",
-    "Deaths": "13",
+    "Confirmed_cases": "98",
+    "Deaths": "14",
     "Recoveries": "2"
 }, {
     "willaya": "Bordj Bou Arréridj",
-    "Confirmed_cases": "70",
+    "Confirmed_cases": "72",
     "Deaths": "16",
     "Recoveries": "0"
 }, {
@@ -64,70 +64,70 @@
     "Deaths": "1",
     "Recoveries": "0"
 }, {
+    "willaya": "Oum El Bouaghi",
+    "Confirmed_cases": "49",
+    "Deaths": "4",
+    "Recoveries": "0"
+}, {
+    "willaya": "Ouargla",
+    "Confirmed_cases": "47",
+    "Deaths": "5",
+    "Recoveries": "1"
+}, {
     "willaya": "Tiaret",
-    "Confirmed_cases": "46",
+    "Confirmed_cases": "47",
     "Deaths": "2",
+    "Recoveries": "0"
+}, {
+    "willaya": "Ghardaïa",
+    "Confirmed_cases": "46",
+    "Deaths": "4",
     "Recoveries": "0"
 }, {
     "willaya": "Djelfa",
     "Confirmed_cases": "45",
     "Deaths": "4",
-    "Recoveries": "0"
+    "Recoveries": "19"
+}, {
+    "willaya": "Biskra",
+    "Confirmed_cases": "44",
+    "Deaths": "6",
+    "Recoveries": "2"
 }, {
     "willaya": "Médéa",
     "Confirmed_cases": "44",
     "Deaths": "10",
-    "Recoveries": "1"
-}, {
-    "willaya": "Biskra",
-    "Confirmed_cases": "42",
-    "Deaths": "6",
-    "Recoveries": "2"
+    "Recoveries": "21"
 }, {
     "willaya": "Boumerdès",
     "Confirmed_cases": "42",
     "Deaths": "7",
     "Recoveries": "1"
 }, {
+    "willaya": "Jijel",
+    "Confirmed_cases": "42",
+    "Deaths": "5",
+    "Recoveries": "0"
+}, {
     "willaya": "Tissemsilt",
     "Confirmed_cases": "42",
     "Deaths": "2",
     "Recoveries": "1"
-}, {
-    "willaya": "Ouargla",
-    "Confirmed_cases": "40",
-    "Deaths": "5",
-    "Recoveries": "1"
-}, {
-    "willaya": "Oum El Bouaghi",
-    "Confirmed_cases": "40",
-    "Deaths": "4",
-    "Recoveries": "0"
 }, {
     "willaya": "Mascara",
     "Confirmed_cases": "39",
     "Deaths": "4",
     "Recoveries": "2"
 }, {
-    "willaya": "Ghardaïa",
-    "Confirmed_cases": "37",
-    "Deaths": "4",
-    "Recoveries": "0"
-}, {
-    "willaya": "Jijel",
-    "Confirmed_cases": "34",
-    "Deaths": "5",
+    "willaya": "Sidi Bel Abbes",
+    "Confirmed_cases": "38",
+    "Deaths": "6",
     "Recoveries": "0"
 }, {
     "willaya": "Skikda",
-    "Confirmed_cases": "33",
+    "Confirmed_cases": "34",
     "Deaths": "4",
     "Recoveries": "3"
-}, {
-    "willaya": "Sidi Bel Abbes",
-    "Confirmed_cases": "32",
-    "Deaths": "5",
-    "Recoveries": "0"
 }, {
     "willaya": "El Oued",
     "Confirmed_cases": "31",
@@ -144,6 +144,11 @@
     "Deaths": "1",
     "Recoveries": "0"
 }, {
+    "willaya": "Annaba",
+    "Confirmed_cases": "25",
+    "Deaths": "3",
+    "Recoveries": "3"
+}, {
     "willaya": "Khenchela",
     "Confirmed_cases": "25",
     "Deaths": "2",
@@ -153,11 +158,6 @@
     "Confirmed_cases": "24",
     "Deaths": "4",
     "Recoveries": "0"
-}, {
-    "willaya": "Annaba",
-    "Confirmed_cases": "24",
-    "Deaths": "3",
-    "Recoveries": "3"
 }, {
     "willaya": "Bouira",
     "Confirmed_cases": "20",
@@ -181,7 +181,7 @@
 }, {
     "willaya": "M'Sila",
     "Confirmed_cases": "17",
-    "Deaths": "6",
+    "Deaths": "7",
     "Recoveries": "0"
 }, {
     "willaya": "Guelma",
@@ -194,18 +194,18 @@
     "Deaths": "0",
     "Recoveries": "0"
 }, {
+    "willaya": "Mila",
+    "Confirmed_cases": "11",
+    "Deaths": "1",
+    "Recoveries": "0"
+}, {
     "willaya": "El Taref",
     "Confirmed_cases": "10",
     "Deaths": "0",
     "Recoveries": "0"
 }, {
-    "willaya": "Mila",
-    "Confirmed_cases": "9",
-    "Deaths": "1",
-    "Recoveries": "0"
-}, {
     "willaya": "Souk Ahras",
-    "Confirmed_cases": "7",
+    "Confirmed_cases": "8",
     "Deaths": "1",
     "Recoveries": "0"
 }, {
@@ -234,10 +234,10 @@
     "Deaths": "0",
     "Recoveries": "0"
 }, {
-    "Total": "Latest update: 24 April 2020[107]",
-    "Total_Confirmed_cases": "",
-    "Total_Deaths": "",
-    "Total_Recoveries": ""
+    "willaya": "Latest update: 25 April 2020[107]",
+    "Confirmed_cases": "",
+    "Deaths": "",
+    "Recoveries": ""
 }, {
-    "latestUpdate": "2020-04-25 6:21:16"
+    "latestUpdate": "2020-04-25 21:44:52"
 }]
