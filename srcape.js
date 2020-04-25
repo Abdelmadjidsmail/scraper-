@@ -71,7 +71,7 @@ request(url, (error, response, html) => {
         scraping()
         num++;
       }
-      if (i == 51) {
+      if (i == 52) {
         data[num] = {
           'Total': l1,
           'Total_Confirmed_cases': l2,
@@ -103,3 +103,12 @@ request(url, (error, response, html) => {
 
   }
 });
+
+
+
+
+
+
+
+
+
