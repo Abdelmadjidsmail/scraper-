@@ -1,9 +1,4 @@
 [{
-    "willaya": "",
-    "Confirmed_cases": "",
-    "Deaths": "",
-    "Recoveries": ""
-}, {
     "willaya": "Blida",
     "Confirmed_cases": "730",
     "Deaths": "102",
@@ -239,8 +234,10 @@
     "Deaths": "0",
     "Recoveries": "0"
 }, {
-    "willaya": "",
-    "Confirmed_cases": "",
-    "Deaths": "",
-    "Recoveries": ""
+    "Total": "Latest update: 24 April 2020[107]",
+    "Total_Confirmed_cases": "",
+    "Total_Deaths": "",
+    "Total_Recoveries": ""
+}, {
+    "latestUpdate": "2020-04-25 6:21:16"
 }]
